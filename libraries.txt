@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT22
+Adafruit Unified Sensor
+WiFi
+ThingSpeak
+DHT sensor library
+DHT sensor library for ESPx
+ESP32Servo
